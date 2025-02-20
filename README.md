@@ -51,14 +51,8 @@ If you are familiar with the application Strava, It's basically my own personal 
 - Big fan of working / collaborating with others especially when great communication is a shared goal.
 - Been a musician / guitarist for over two decades. Love playing Bluegrass, Funk, and Jazz.
 - Love outdoor stuff, particularly Skiing and Mountain Biking.
-- Life, in a way, is about finding balance between novel and familiar experiences. (I just thought of that, lmk if it's any good.)
+- Life, in a way, is about finding balance between novel and familiar experiences (just thought of that, lmk if it's any good).
 
 ---
 
-### 🔗 Links & Contact
-- [LinkedIn](https://www.linkedin.com/in/ericbatiste/)
-- [Github](https://github.com/ericbatiste)  
-
----
-
-Thanks for stopping by! Feel free to reach out to me on Linked In. 👋
+Thanks for taking the time, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ericbatiste/). 👋
