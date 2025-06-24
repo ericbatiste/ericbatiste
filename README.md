@@ -1,15 +1,12 @@
 ## Howdy,
 
-I'm a full stack developer living in the Greater Denver Area, currently on the hunt for a Junior role.
-My go to technologies are ***Next.js*** / ***React*** with ***TypeScript***, although I am currently having a great time immersing myself in the world of ***iOS*** with ***Swift*** and ***Ruby***.   
+I'm a full stack developer living in the Greater Denver Area.
+My go to technologies are ***Next.js*** / ***React*** with ***TypeScript***.   
+At the moment, I am building my first mobile app using ***iOS*** with ***Swift*** and ***Ruby***.
 
 ---
 
-### 🛸 Some Tech I've Built With 🛸
-#### Currently Learning:
-![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+### 🛸 Some Tech I've Built With
 #### Languages:
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,26 +29,17 @@ My go to technologies are ***Next.js*** / ***React*** with ***TypeScript***, alt
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 #### Tools:
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
----
-
-### 🛠️ I'm Currently Building...
-...an outdoor sports / activity tracking application with ***iOS / SwiftUI***, ***Mapbox***, ***Ruby / Rails***, ***PostgreSQL***, and ***AWS***.
-
-If you are familiar with the application Strava, It's basically my own personal version of that.
-
-#### Some highlights so far:
-- Working with iOS location data.
-- Finding the similarities and differences between SwiftUI and React.
-- Ruby on Rails is intuitive and satisfying.
+#### Currently Learning:
+![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ---
 
 ### 🏔️ Some More About Me
-- Big fan of working / collaborating with others especially when great communication is a shared goal.
-- Been a musician / guitarist for over two decades. Love playing Bluegrass, Funk, and Jazz.
-- Love outdoor stuff, particularly Skiing and Mountain Biking.
-- Life, in a way, is about finding balance between novel and familiar experiences (just thought of that, lmk if it's any good).
+- I enjoy working / collaborating with others especially when great communication is a shared priority.
+- I am a musician / guitarist, going on two and a half decades now. I'll play Bluegrass, Funk, Jazz, you name it!
+- I love getting outdoors, particularly for Camping, Skiing and Mountain Biking.
 
 ---
 
