@@ -1,7 +1,9 @@
 ## Howdy,
 
 I'm a full stack developer living in the Greater Denver Area.
-My go to technologies are ***Next.js*** / ***React*** with ***TypeScript***.   
+
+My go to technologies are ***Next.js*** / ***React*** with ***TypeScript***.
+
 At the moment, I am building my first mobile app using ***iOS*** with ***Swift*** and ***Ruby***.
 
 ---
@@ -35,7 +37,7 @@ At the moment, I am building my first mobile app using ***iOS*** with ***Swift**
 
 ---
 
-### 🏔️ Some More About Me
+### 🏔️ More About Me
 - I enjoy working / collaborating with others especially when great communication is a shared priority.
 - I am a musician / guitarist, going on two and a half decades now. I'll play Bluegrass, Funk, Jazz, you name it!
 - I love getting outdoors, particularly for Camping, Skiing and Mountain Biking.
